@@ -1,2 +1,2 @@
 # Responsive_web
-Responsive Website
+First Responsive website made using media queries.
